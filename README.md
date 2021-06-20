@@ -13,6 +13,11 @@ allowed_subnet_ids | List | List of subnet ids to add
 resource_group_name | String | Name of the new resource group(Optional)
 resource_group_location | String | Location of the new resource group(Optional)
 kv_name | String | Name of the Azure Key Vault
+<<<<<<< HEAD
+environmentServiceName | String | Environment Service Name
+subscriptionName | String | Subscription Name
+=======
 subscriptionName | String | Name of the Azure Subscription
 environmentServiceName| String | Environment Service Name
 
+>>>>>>> 08c224fdef608a29c8e89ac4c8fc7b476fe0d80b
