@@ -12,4 +12,7 @@ Variable Name | Variable Type | Description
 allowed_subnet_ids | List | List of subnet ids to add
 resource_group_name | String | Name of the new resource group(Optional)
 resource_group_location | String | Location of the new resource group(Optional)
-kv_name | String | Name of the Azure Key Vault.
+kv_name | String | Name of the Azure Key Vault
+subscriptionName | String | Name of the Azure Subscription
+environmentServiceName| String | Environment Service Name
+
